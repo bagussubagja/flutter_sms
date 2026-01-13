@@ -19,8 +19,8 @@ Supports both direct SMS sending and SMS dialog interface.
   s.dependency 'Flutter'
   
   # Updated platform requirements
-  s.platform = :ios, '15.0'
-  s.ios.deployment_target = '15.0'
+  s.platform = :ios, '14.0'
+  s.ios.deployment_target = '14.0'
   
   # Updated architecture support
   s.pod_target_xcconfig = { 
